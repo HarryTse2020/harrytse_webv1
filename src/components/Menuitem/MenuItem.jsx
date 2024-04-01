@@ -1,5 +1,4 @@
 import React from 'react';
-import { GoPerson } from "react-icons/go";
 
 import './MenuItem.css';
 
