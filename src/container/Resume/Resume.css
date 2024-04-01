@@ -1,0 +1,31 @@
+/* .app__resume
+ {
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start
+} */
+
+
+/* .Timeline
+ {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+} */
+
+/* .app__footer-links_contact {
+    color: var(--color-white);
+    margin: 0.5rem;
+    font-size: 24px;
+    cursor: pointer;
+} */
+
+.app__footer-links_experience{
+    margin: 3rem 0rem;
+}
+
+.app__footer-links_education{
+    margin: 3rem 0rem;
+}
