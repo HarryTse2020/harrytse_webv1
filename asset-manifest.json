@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/harrytse_webv1/static/css/main.5a7d8f26.css",
-    "main.js": "/harrytse_webv1/static/js/main.bac86a3d.js",
+    "main.js": "/harrytse_webv1/static/js/main.ba1fa77b.js",
     "static/media/bg.png": "/harrytse_webv1/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/harryicon2.jpg": "/harrytse_webv1/static/media/harryicon2.652cbdb74154f0eda1b7.jpg",
     "static/media/H2.png": "/harrytse_webv1/static/media/H2.19d3d57a28a9bbe83ab7.png",
     "static/media/react.png": "/harrytse_webv1/static/media/react.809fed23bcdd686de66e.png",
     "static/media/python.png": "/harrytse_webv1/static/media/python.6a5cbc319ab3ddf8ef92.png",
@@ -15,10 +16,10 @@
     "static/media/flutter.png": "/harrytse_webv1/static/media/flutter.403caa3a2d2854e761a6.png",
     "index.html": "/harrytse_webv1/index.html",
     "main.5a7d8f26.css.map": "/harrytse_webv1/static/css/main.5a7d8f26.css.map",
-    "main.bac86a3d.js.map": "/harrytse_webv1/static/js/main.bac86a3d.js.map"
+    "main.ba1fa77b.js.map": "/harrytse_webv1/static/js/main.ba1fa77b.js.map"
   },
   "entrypoints": [
     "static/css/main.5a7d8f26.css",
-    "static/js/main.bac86a3d.js"
+    "static/js/main.ba1fa77b.js"
   ]
 }
