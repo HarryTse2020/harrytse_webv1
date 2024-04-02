@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/harrytse_webv1/static/css/main.5a7d8f26.css",
+    "main.js": "/harrytse_webv1/static/js/main.bac86a3d.js",
+    "static/media/bg.png": "/harrytse_webv1/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/H2.png": "/harrytse_webv1/static/media/H2.19d3d57a28a9bbe83ab7.png",
+    "static/media/react.png": "/harrytse_webv1/static/media/react.809fed23bcdd686de66e.png",
+    "static/media/python.png": "/harrytse_webv1/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/java.png": "/harrytse_webv1/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/aws.png": "/harrytse_webv1/static/media/aws.4c285069541b80a52943.png",
+    "static/media/database.png": "/harrytse_webv1/static/media/database.3267327599a9011812b1.png",
+    "static/media/gitlab.png": "/harrytse_webv1/static/media/gitlab.6d4cbc2644f1b09d8ac4.png",
+    "static/media/programmericon.png": "/harrytse_webv1/static/media/programmericon.1e5c004a4dfc8eb5f365.png",
+    "static/media/harryicon.jpg": "/harrytse_webv1/static/media/harryicon.ab2845bdb041cdef0acb.jpg",
+    "static/media/flutter.png": "/harrytse_webv1/static/media/flutter.403caa3a2d2854e761a6.png",
+    "index.html": "/harrytse_webv1/index.html",
+    "main.5a7d8f26.css.map": "/harrytse_webv1/static/css/main.5a7d8f26.css.map",
+    "main.bac86a3d.js.map": "/harrytse_webv1/static/js/main.bac86a3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a7d8f26.css",
+    "static/js/main.bac86a3d.js"
+  ]
+}
