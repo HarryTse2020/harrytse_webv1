@@ -14,7 +14,7 @@ const Header = () => (
     </div>
 
     <div className="app__wrapper_img">
-      <img src={images.harry_icon} alt="header_img" />
+      <img src={images.harry_icon2} alt="header_img" />
     </div>
   </div>
 );
