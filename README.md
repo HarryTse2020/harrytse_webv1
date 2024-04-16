@@ -77,3 +77,7 @@ npm install @material-ui/lab
 npm install @material-ui/core
 npm install @emotion/react
 npm install @emotion/styled
+
+deployment to github:
+npm run build
+npm run deploy
